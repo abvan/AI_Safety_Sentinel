@@ -10,7 +10,8 @@ Automatically detecting safety equipment compliance
 Providing real-time alerts for safety violations
 Reducing human error in safety monitoring
 
-![image](https://github.com/user-attachments/assets/501cf32c-5e9e-4ae2-87bf-23652e5b0847)
+![image](https://github.com/user-attachments/assets/ad8c4402-b55d-450b-aa81-a8b550e3a87a)
+
 
 ✨ Key Features
 
